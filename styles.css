@@ -55,12 +55,13 @@ article{
 #p4{
     border: solid 2px var(--Moderateviolet);
 }
-h2{
-  font-size: 13px;
-  display: inline-block;  
-  padding-left:15px;
+
+figcaption{
+    font-size: 13px;
+    display: inline-block;  
+    padding-left:15px;
 }
-h2 span{
+figcaption span{
     display: block;
     opacity: 50%;
 }
